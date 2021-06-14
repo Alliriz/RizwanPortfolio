@@ -7,4 +7,5 @@ Data Science Portfolio
 * Engineered features from given text used in multiple choice questions present in the data
 * Performed feature selection using recursive feature elimination techniques
 * Implemented and optimized a classification algorithm using logistic regression.
+
 ![](https://github.com/Alliriz/Rizwan_Portfolio/blob/main/Images/Salary-Experience.png)
