@@ -6,6 +6,6 @@ Data Science Portfolio
 * Explored and cleaned data using pandas, numpy
 * Engineered features from given text used in multiple choice questions present in the data
 * Performed feature selection using recursive feature elimination techniques
-* Implemented and optimized a classification algorithm using logistic regression.
+* Implemented and optimized via GridSearchCv a classification algorithm using logistic regression.
 
 ![](https://github.com/Alliriz/Rizwan_Portfolio/blob/main/Images/Salary-Experience.png)
