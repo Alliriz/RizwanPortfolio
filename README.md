@@ -1,7 +1,7 @@
 # Rizwan Portfolio
 Welcome to my Portfolio. I am an aspiring data scientist with a background in engineering. I work with any interesting data sources I find and try to learn from them as much as I can.
 
-# [Project 1: Data Science Salary Estimator](https://github.com/Alliriz/Rizwan_Portfolio/tree/main/Salary)
+# [Project 1: Data Science Salary Predictor](https://github.com/Alliriz/Rizwan_Portfolio/tree/main/Salary)
 * Created a tool to estimate data science salary to a range of values, which may help in negotiating contracts
 * Used a dataset provided by [Kaggle](https://www.kaggle.com/c/kaggle-survey-2019/data)
 * Explored and cleaned data using pandas, numpy
@@ -21,3 +21,14 @@ Welcome to my Portfolio. I am an aspiring data scientist with a background in en
 * Implement and Optimize multiple classification algorithms such as SVM, Naive Bayes, etc.
 
 ![](/Images/Actual_Predicted.png)
+
+
+# [Project 3: Salary Estimator]()
+* Used a dataset acquired from [Levels](https://www.levels.fyi/)
+* Used Scala and SQL to explore and clean dataset
+* Engineered and limited features to counteract against a high feature-space
+* Incorporated the use of feature importance via Random Forests to select features
+* Implemented and optimized via GridSearchCV various Regression Algorithms such as Linear Regression, Tree estimators and ensembles.
+* Evaluated predicted results using various metrics such as MSE, SMAPE, etc.
+
+![]()
