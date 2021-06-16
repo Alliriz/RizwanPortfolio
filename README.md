@@ -1,4 +1,4 @@
-# Rizwan Portfolio
+# Data Science Portfolio
 Welcome to my Portfolio. I am an aspiring data scientist with a background in engineering. I work with any interesting data sources I find and try to learn from them as much as I can.
 
 # [Project 1: Data Science Salary Predictor](https://github.com/Alliriz/RizwanPortfolio/tree/main/Salary)
