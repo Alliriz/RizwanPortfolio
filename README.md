@@ -20,4 +20,4 @@ Data Science Portfolio
 * Used NLP techniques to convert text data into a machine readable format
 * Implement and Optimize multiple classification algorithms such as SVM, Naive Bayes, etc.
 
-![]()
+![](https://github.com/Alliriz/Rizwan_Portfolio/blob/main/Images/Actual_Predicted.png)
