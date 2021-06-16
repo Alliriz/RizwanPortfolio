@@ -23,7 +23,7 @@ Welcome to my Portfolio. I am an aspiring data scientist with a background in en
 ![](/Images/Actual_Predicted.png)
 
 
-# [Project 3: Salary Estimator]()
+# [Project 3: Salary Estimator](https://github.com/Alliriz/Rizwan_Portfolio/tree/main/Levels)
 * Used a dataset acquired from [Levels](https://www.levels.fyi/)
 * Used Scala and SQL to explore and clean dataset
 * Engineered and limited features to counteract against a high feature-space
@@ -31,4 +31,3 @@ Welcome to my Portfolio. I am an aspiring data scientist with a background in en
 * Implemented and optimized via GridSearchCV various Regression Algorithms such as Linear Regression, Tree estimators and ensembles.
 * Evaluated predicted results using various metrics such as MSE, SMAPE, etc.
 
-![]()
