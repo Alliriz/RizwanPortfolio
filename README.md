@@ -9,7 +9,7 @@ Data Science Portfolio
 * Performed feature selection using recursive feature elimination techniques
 * Implemented and optimized via GridSearchCv a classification algorithm using logistic regression.
 
-![](https://github.com/Alliriz/Rizwan_Portfolio/blob/main/Images/Salary-Experience.png)
+![](/Images/Salary-Experience.png)
 
 
 # [Project 2: Canadian Election via Twitter Sentiment Analysis](https://github.com/Alliriz/Rizwan_Portfolio/tree/main/SentimentAnalysis)
@@ -20,4 +20,4 @@ Data Science Portfolio
 * Used NLP techniques to convert text data into a machine readable format
 * Implement and Optimize multiple classification algorithms such as SVM, Naive Bayes, etc.
 
-![](https://github.com/Alliriz/Rizwan_Portfolio/blob/main/Images/Actual_Predicted.png)
+![](/Images/Actual_Predicted.png)
