@@ -12,7 +12,7 @@ Data Science Portfolio
 ![](https://github.com/Alliriz/Rizwan_Portfolio/blob/main/Images/Salary-Experience.png)
 
 
-# [Project 2: Canadian Election via Twitter Sentiment Analysis()
+# [Project 2: Canadian Election via Twitter Sentiment Analysis]()
 * Produced insights on the 2019 Canadian Elections using Twitter Data
 * Performed Data cleaning pandas and regular expressions
 * Sorted different political parties into bins for further analysis
