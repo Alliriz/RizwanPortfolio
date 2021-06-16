@@ -1,7 +1,7 @@
 # Rizwan Portfolio
 Welcome to my Portfolio. I am an aspiring data scientist with a background in engineering. I work with any interesting data sources I find and try to learn from them as much as I can.
 
-# [Project 1: Data Science Salary Predictor](https://github.com/Alliriz/Rizwan_Portfolio/tree/main/Salary)
+# [Project 1: Data Science Salary Predictor](https://github.com/Alliriz/RizwanPortfolio/tree/main/Salary)
 * Created a tool to estimate data science salary to a range of values, which may help in negotiating contracts
 * Used a dataset provided by [Kaggle](https://www.kaggle.com/c/kaggle-survey-2019/data)
 * Explored and cleaned data using pandas, numpy
@@ -12,7 +12,7 @@ Welcome to my Portfolio. I am an aspiring data scientist with a background in en
 ![](/Images/Salary-Experience.png)
 
 
-# [Project 2: Canadian Election via Twitter Sentiment Analysis](https://github.com/Alliriz/Rizwan_Portfolio/tree/main/SentimentAnalysis)
+# [Project 2: Canadian Election via Twitter Sentiment Analysis](https://github.com/Alliriz/RizwanPortfolio/tree/main/SentimentAnalysis)
 * Produced insights on the 2019 Canadian Elections using Twitter Data
 * Performed Data cleaning pandas and regular expressions
 * Sorted different political parties into bins for further analysis
@@ -23,7 +23,7 @@ Welcome to my Portfolio. I am an aspiring data scientist with a background in en
 ![](/Images/Actual_Predicted.png)
 
 
-# [Project 3: Salary Estimator](https://github.com/Alliriz/Rizwan_Portfolio/tree/main/Levels)
+# [Project 3: Salary Estimator](https://github.com/Alliriz/RizwanPortfolio/tree/main/Levels)
 * Used a dataset acquired from [Levels](https://www.levels.fyi/)
 * Used Scala and SQL to explore and clean dataset
 * Engineered and limited features to counteract against a high feature-space
