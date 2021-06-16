@@ -1,4 +1,4 @@
-# Rizwan_Portfolio
+# Rizwan Portfolio
 Data Science Portfolio
 
 # [Project 1: Data Science Salary Estimator](https://github.com/Alliriz/Rizwan_Portfolio/tree/main/Salary)
