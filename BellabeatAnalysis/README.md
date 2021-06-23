@@ -16,3 +16,6 @@ Packages: pandas, numpy, sklearn, matplotlib, seaborn
 
 ## Data Visualization
 Looking through most of the data, these are some of the highlights of my visualizations
+
+
+![](/Images/ActivityPercent.png)   ![](/Images/AverageDistance.png)
