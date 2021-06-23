@@ -11,11 +11,13 @@
 Python Version: 3.7<br>
 Packages: pandas, numpy, sklearn, matplotlib, seaborn, sklearn
 
-## Data Exploration and Cleaning
-* Ensure data is clean and coherent
-* Convert columns to correct data types
-* Make new columns to get total active minutes by the user and hours slept by the user
-* Identify any trends or correlations in the data
+## Data Cleaning
+* Identify and convert datatypes
+* Parse numeric data out of salary ranges
+* Make new columns for certain questions
+* Identify similar columns in the data to fill in missing data
 
 ## Data Visualization
 Looking through most of the data, these are some of the highlights of my visualizations
+![](https://github.com/Alliriz/RizwanPortfolio/blob/main/Images/Salary-Experience.png) ![](https://github.com/Alliriz/RizwanPortfolio/blob/main/Salary/Images/Salary%20Frequency.png)
+
