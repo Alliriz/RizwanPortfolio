@@ -5,7 +5,7 @@
 * Formulated problem areas and proposed solutions for a marketing team for a case study.
 
 ## Code and Resources Used
-Python Version: 3.7
+Python Version: 3.7<br>
 Packages: pandas, numpy, sklearn, matplotlib, seaborn
 
 ## Data Exploration and Cleaning
