@@ -17,5 +17,5 @@ Packages: pandas, numpy, sklearn, matplotlib, seaborn
 ## Data Visualization
 Looking through most of the data, these are some of the highlights of my visualizations
 
-![](/Images/AverageDistance.png)  
+![](https://github.com/Alliriz/RizwanPortfolio/blob/main/BellabeatAnalysis/Images/AverageDistance.png)  
 
