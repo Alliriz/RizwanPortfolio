@@ -21,3 +21,8 @@ Packages: pandas, numpy, sklearn, matplotlib, seaborn, sklearn
 Looking through most of the data, these are some of the highlights of my visualizations
 ![](https://github.com/Alliriz/RizwanPortfolio/blob/main/Images/Salary-Experience.png) ![](https://github.com/Alliriz/RizwanPortfolio/blob/main/Salary/Images/Salary%20Frequency.png)
 
+## Model Building
+I convert the categorical variables into dummy variables and split the data into training and testing data. <br>
+The model used is a Logistic Regression model for which accuracy will be the performance metric. <br>
+After testing the initial model, feature engineering was performed by using a recursive feature eliminator function and parameters were further hypertuned for best accuracy.
+
