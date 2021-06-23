@@ -1,2 +1,2 @@
 
-Images for the bellabeat data analysis case study
+# Images for the bellabeat data analysis case study
