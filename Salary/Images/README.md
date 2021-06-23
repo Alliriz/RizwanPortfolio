@@ -1,1 +1,2 @@
 
+# Images for Salary Classification
