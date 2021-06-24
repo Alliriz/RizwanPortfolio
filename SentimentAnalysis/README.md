@@ -1,25 +1,25 @@
 
-# Data Science Salary Predictor
-* Created a tool to estimate data science salary to a range of values, which may help in negotiating contracts
-* Used a dataset provided by [Kaggle](https://www.kaggle.com/c/kaggle-survey-2019/data)
-* Explored and cleaned data using pandas, numpy
-* Engineered features from given text used in multiple choice questions present in the data
-* Performed feature selection using recursive feature elimination techniques
-* Implemented and optimized via GridSearchCv a classification algorithm using logistic regression.
+# Canadian Election via Twitter Sentiment Analysis
+* Produced insights on the 2019 Canadian Elections using Twitter Data
+* Performed Data cleaning pandas and regular expressions
+* Sorted different political parties into bins for further analysis
+* Explored data via visualizaiton using ggplot, wordcloud and seaborn
+* Used NLP techniques to convert text data into a machine readable format
+* Implement and Optimize multiple classification algorithms such as SVM, Naive Bayes, etc.
 
 ## Code and Resources Used
 Python Version: 3.7<br>
-Packages: pandas, numpy, sklearn, matplotlib, seaborn, sklearn
+Packages: pandas, numpy, wordcloud, nltk, re, sklearn, matplotlib, seaborn, sklearn
 
 ## Data Cleaning
 * Identify and convert datatypes
-* Parse numeric data out of salary ranges
-* Make new columns for certain questions
-* Identify similar columns in the data to fill in missing data
+* Parse party out of text
+* Convert sentiment to numeric
+* Evaluate and transform text
 
 ## Data Visualization
-Looking through most of the data, these are some of the highlights of my visualizations
-![](https://github.com/Alliriz/RizwanPortfolio/blob/main/Images/Salary-Experience.png) ![](https://github.com/Alliriz/RizwanPortfolio/blob/main/Salary/Images/Salary%20Frequency.png)
+Some highlights from the data visualized are shown here
+![Actual vs Prediction](https://github.com/Alliriz/RizwanPortfolio/blob/main/Images/Actual_Predicted.png) ![Positive Words](https://github.com/Alliriz/RizwanPortfolio/blob/main/SentimentAnalysis/Images/Poisitive%20words.png)
 
 ## Model Building
 I convert the categorical variables into dummy variables and split the data into training and testing data. <br>
