@@ -19,7 +19,7 @@ Packages: pandas, numpy, wordcloud, nltk, re, sklearn, matplotlib, seaborn, skle
 
 ## Data Visualization
 Some highlights from the data visualized are shown here
-[Actual vs Prediction](https://github.com/Alliriz/RizwanPortfolio/blob/main/Images/Actual_Predicted.png) ![Positive Words](https://github.com/Alliriz/RizwanPortfolio/blob/main/SentimentAnalysis/Images/Poisitive%20words.png)
+![Actual vs Prediction](https://github.com/Alliriz/RizwanPortfolio/blob/main/Images/Actual_Predicted.png) ![Positive Words](https://github.com/Alliriz/RizwanPortfolio/blob/main/SentimentAnalysis/Images/Poisitive%20words.png)
 
 ## Model Building
 I convert the categorical variables into dummy variables and split the data into training and testing data. <br>
