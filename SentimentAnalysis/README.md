@@ -15,14 +15,14 @@ Packages: pandas, numpy, wordcloud, nltk, re, sklearn, matplotlib, seaborn, skle
 * Identify and convert datatypes
 * Parse party out of text
 * Convert sentiment to numeric
-* Evaluate and transform text
+* Evaluate and transform text by removing stop words, URLs, HTMLs etc.
 
 ## Data Visualization
 Some highlights from the data visualized are shown here
 ![Actual vs Prediction](https://github.com/Alliriz/RizwanPortfolio/blob/main/Images/Actual_Predicted.png) ![Positive Words](https://github.com/Alliriz/RizwanPortfolio/blob/main/SentimentAnalysis/Images/Poisitive%20words.png)
 
 ## Model Building
-I convert the categorical variables into dummy variables and split the data into training and testing data. <br>
-The model used is a Logistic Regression model for which accuracy will be the performance metric. <br>
-After testing the initial model, feature engineering was performed by using a recursive feature eliminator function and parameters were further hypertuned for best accuracy.
+I convert the text data to machine readable form using TF-IDF and bags of word approach. <br>
+Numerous models were used including SVM, Logistic Regression, XGBoost with accuracy being the performance metric. <br>
+After testing the initial model, the highest accuracy was further improved by tuning the hyperparameters.
 
